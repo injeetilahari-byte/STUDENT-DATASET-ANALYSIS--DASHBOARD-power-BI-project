@@ -48,3 +48,7 @@ here's an Interactive Power BI dashboard for analyzing student academic data, at
   
 * Delivered a simple and interactive dashboard for better decision-making.
 
+ 🔗 PROJECT LINK
+
+ https://github.com/injeetilahari-byte/STUDENT-DATASET-ANALYSIS--DASHBOARD-power-BI-project.git
+
