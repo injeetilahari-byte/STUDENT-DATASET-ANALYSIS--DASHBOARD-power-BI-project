@@ -1,0 +1,801 @@
+RollNo,Branch,CGPA,Attendance,PendingFee
+R001,IT,8.5,Absent,5000
+,ECE ,,Absent,N/A
+,cse,7.2,,5000
+R002,IT,7.2,90,
+,ECE ,,,
+N/A,cse,N/A,90,"10,000"
+R002,N/A,N/A,85%,5000
+N/A,cse,8.8,,5000
+R002,cse,7.2,,5000
+R001,ECE ,8.5,,"10,000"
+N/A,CSE,8.8,Absent,N/A
+N/A,ECE ,8.8,85%,"10,000"
+R002,cse,8.5,85%,"10,000"
+,N/A,8.8,90,"10,000"
+R001,cse,7.2,,5000
+R002,IT,8.5,85%,
+N/A,N/A,,Absent,5000
+N/A,ECE ,8.8,Absent,"10,000"
+R001,CSE,,,"10,000"
+R002,CSE,,85%,N/A
+R002,IT,8.5,,"10,000"
+R001,IT,8.5,,N/A
+R001,N/A,8.5,85%,"10,000"
+R002,CSE,,85%,N/A
+N/A,ECE ,,90,5000
+R002,ECE ,8.5,,5000
+,IT,8.5,90,"10,000"
+R001,cse,N/A,Absent,5000
+R002,CSE,8.8,,
+N/A,ECE ,,90,5000
+,cse,,Absent,N/A
+,N/A,N/A,90,5000
+N/A,cse,7.2,Absent,5000
+,cse,,Absent,"10,000"
+,N/A,,90,N/A
+N/A,cse,N/A,90,
+,IT,7.2,,5000
+,ECE ,8.8,Absent,5000
+R002,CSE,8.5,Absent,"10,000"
+R001,IT,,Absent,"10,000"
+,IT,,85%,"10,000"
+R002,ECE ,8.5,,
+R002,CSE,,,
+R002,cse,8.5,85%,"10,000"
+R002,ECE ,8.8,85%,5000
+R001,CSE,8.5,,5000
+N/A,ECE ,N/A,Absent,5000
+R002,IT,7.2,85%,5000
+R001,IT,7.2,90,"10,000"
+N/A,IT,,90,N/A
+N/A,IT,N/A,85%,"10,000"
+,IT,7.2,90,N/A
+R002,CSE,,90,5000
+N/A,CSE,N/A,Absent,N/A
+R001,N/A,8.5,,
+,IT,7.2,90,N/A
+R002,ECE ,7.2,90,N/A
+,CSE,8.8,90,
+,CSE,,,
+N/A,N/A,N/A,Absent,5000
+N/A,N/A,7.2,,5000
+,CSE,N/A,Absent,
+N/A,CSE,7.2,Absent,"10,000"
+,CSE,8.8,,N/A
+R001,ECE ,,90,
+N/A,CSE,N/A,85%,
+N/A,cse,8.8,85%,N/A
+R002,CSE,8.8,85%,"10,000"
+R002,cse,8.5,Absent,N/A
+R002,N/A,7.2,,5000
+R002,ECE ,8.8,90,5000
+R002,N/A,8.5,,
+R002,ECE ,N/A,Absent,N/A
+R001,IT,8.8,Absent,
+R001,ECE ,N/A,85%,"10,000"
+R001,IT,7.2,,5000
+N/A,N/A,,85%,N/A
+,ECE ,7.2,85%,N/A
+R002,cse,8.8,,N/A
+N/A,cse,N/A,Absent,N/A
+,CSE,8.5,,5000
+N/A,CSE,N/A,85%,5000
+R001,cse,8.8,Absent,
+,cse,8.8,,
+N/A,cse,,Absent,"10,000"
+N/A,ECE ,N/A,85%,
+,N/A,8.5,,5000
+,N/A,7.2,,5000
+R001,ECE ,N/A,,5000
+R002,CSE,,,N/A
+N/A,IT,N/A,Absent,
+,ECE ,,Absent,
+R002,CSE,8.5,90,
+,ECE ,,,"10,000"
+N/A,cse,N/A,90,5000
+R002,CSE,7.2,85%,"10,000"
+,ECE ,8.8,85%,5000
+N/A,cse,,85%,5000
+R001,ECE ,8.5,,5000
+,cse,8.8,,N/A
+N/A,ECE ,7.2,90,5000
+R002,ECE ,,,5000
+N/A,IT,N/A,90,N/A
+R002,cse,8.8,,
+N/A,IT,8.5,85%,N/A
+R002,IT,N/A,Absent,N/A
+R001,IT,,85%,N/A
+,IT,,,"10,000"
+N/A,cse,N/A,Absent,
+R002,IT,7.2,90,N/A
+R002,cse,,Absent,5000
+R001,ECE ,7.2,90,
+N/A,IT,8.5,90,"10,000"
+,IT,N/A,85%,N/A
+R002,N/A,8.5,85%,"10,000"
+N/A,N/A,,,
+N/A,CSE,8.5,85%,"10,000"
+,IT,8.5,90,
+N/A,CSE,7.2,,N/A
+R001,IT,8.8,Absent,
+,ECE ,N/A,85%,5000
+R002,IT,N/A,85%,N/A
+,N/A,N/A,,5000
+R002,N/A,8.8,85%,N/A
+N/A,ECE ,8.8,Absent,N/A
+R002,ECE ,N/A,,
+R001,ECE ,8.5,90,5000
+R001,cse,,,N/A
+R002,cse,,85%,N/A
+,IT,8.5,Absent,
+,ECE ,7.2,90,
+,IT,7.2,Absent,
+N/A,CSE,8.8,90,"10,000"
+R002,ECE ,N/A,90,5000
+R001,cse,8.8,85%,"10,000"
+R001,cse,8.8,Absent,N/A
+,ECE ,,85%,"10,000"
+R001,ECE ,,85%,5000
+R002,IT,8.8,,
+R001,ECE ,8.8,85%,
+N/A,N/A,N/A,,N/A
+R002,cse,8.8,,N/A
+,cse,N/A,90,
+N/A,IT,8.8,85%,N/A
+N/A,N/A,N/A,90,"10,000"
+R001,ECE ,8.5,Absent,N/A
+R001,N/A,,85%,N/A
+N/A,IT,7.2,,"10,000"
+R002,N/A,7.2,90,5000
+R002,ECE ,8.8,90,"10,000"
+,N/A,8.8,85%,
+R002,CSE,N/A,90,5000
+N/A,CSE,N/A,85%,"10,000"
+R001,N/A,7.2,,5000
+R002,cse,,Absent,N/A
+N/A,cse,7.2,,
+,ECE ,,90,"10,000"
+N/A,cse,7.2,,N/A
+R002,cse,N/A,Absent,"10,000"
+,CSE,8.5,Absent,
+,CSE,7.2,Absent,N/A
+,ECE ,8.8,,N/A
+R001,IT,8.8,85%,N/A
+R001,cse,N/A,,N/A
+,CSE,8.8,,"10,000"
+,CSE,7.2,85%,"10,000"
+N/A,CSE,,,"10,000"
+N/A,cse,N/A,Absent,"10,000"
+R001,IT,8.8,,"10,000"
+N/A,ECE ,8.5,90,N/A
+R001,ECE ,8.5,,
+R001,IT,7.2,Absent,"10,000"
+R001,cse,N/A,90,5000
+,IT,8.5,85%,5000
+,N/A,8.8,90,
+,ECE ,,90,5000
+,ECE ,8.8,90,5000
+N/A,IT,8.5,85%,5000
+R002,ECE ,7.2,90,
+R001,cse,7.2,85%,5000
+R002,cse,8.8,Absent,"10,000"
+R002,CSE,7.2,85%,5000
+R001,ECE ,,85%,
+R002,ECE ,8.8,85%,5000
+N/A,cse,7.2,,N/A
+R002,CSE,8.8,Absent,5000
+R001,cse,8.8,85%,
+R002,cse,7.2,,
+R002,ECE ,N/A,,5000
+,ECE ,N/A,,N/A
+N/A,IT,8.8,85%,
+N/A,cse,8.8,85%,
+N/A,cse,N/A,Absent,"10,000"
+,cse,8.5,,"10,000"
+,ECE ,8.5,85%,N/A
+,ECE ,7.2,Absent,
+,IT,,90,"10,000"
+,N/A,,,
+R002,IT,N/A,Absent,N/A
+R001,IT,7.2,,N/A
+N/A,CSE,N/A,Absent,N/A
+R001,IT,7.2,Absent,"10,000"
+R001,ECE ,,Absent,
+R001,ECE ,N/A,85%,
+N/A,N/A,8.8,85%,5000
+,N/A,N/A,Absent,N/A
+,CSE,,Absent,N/A
+R001,cse,7.2,,
+R002,IT,8.8,85%,5000
+R001,N/A,7.2,90,5000
+R001,IT,8.5,90,5000
+R001,CSE,7.2,90,
+N/A,N/A,,90,5000
+R001,cse,N/A,85%,"10,000"
+R001,ECE ,7.2,Absent,N/A
+N/A,ECE ,N/A,85%,"10,000"
+N/A,ECE ,8.8,85%,N/A
+R002,N/A,,Absent,5000
+R001,ECE ,,90,5000
+N/A,cse,7.2,90,5000
+R001,ECE ,N/A,90,
+R002,ECE ,7.2,90,
+,ECE ,,,"10,000"
+N/A,ECE ,,Absent,
+R002,CSE,7.2,90,5000
+R001,CSE,,Absent,N/A
+N/A,IT,8.8,90,"10,000"
+,ECE ,8.8,Absent,N/A
+R001,cse,,Absent,"10,000"
+N/A,ECE ,N/A,85%,N/A
+N/A,IT,8.5,90,N/A
+N/A,ECE ,8.5,85%,
+N/A,CSE,7.2,85%,5000
+N/A,N/A,7.2,85%,
+R001,cse,8.5,90,"10,000"
+R001,cse,8.8,Absent,N/A
+R001,ECE ,7.2,85%,
+R001,ECE ,N/A,90,"10,000"
+N/A,ECE ,,85%,5000
+,ECE ,,90,N/A
+N/A,IT,8.5,,5000
+N/A,IT,8.5,85%,
+R002,cse,7.2,90,
+N/A,ECE ,7.2,85%,
+,ECE ,8.5,90,
+R001,CSE,8.5,85%,"10,000"
+N/A,CSE,7.2,90,5000
+R002,cse,8.8,Absent,5000
+R002,N/A,8.5,85%,"10,000"
+R002,IT,7.2,Absent,
+N/A,ECE ,7.2,,N/A
+N/A,cse,8.5,,N/A
+,N/A,8.5,Absent,5000
+N/A,cse,N/A,90,"10,000"
+N/A,cse,,,"10,000"
+R002,cse,8.5,,N/A
+R002,IT,,Absent,"10,000"
+,cse,8.8,90,N/A
+N/A,IT,8.8,90,"10,000"
+N/A,IT,8.8,Absent,"10,000"
+N/A,CSE,N/A,85%,5000
+,cse,7.2,85%,"10,000"
+N/A,cse,7.2,,5000
+R001,ECE ,8.5,85%,N/A
+R001,ECE ,8.8,Absent,N/A
+R002,IT,8.8,,
+R002,N/A,8.5,Absent,5000
+N/A,CSE,8.8,,"10,000"
+R001,ECE ,7.2,85%,5000
+,N/A,N/A,90,
+R001,CSE,,Absent,"10,000"
+,CSE,8.5,Absent,5000
+R001,N/A,8.8,85%,"10,000"
+R002,CSE,8.8,,"10,000"
+,cse,N/A,,
+,IT,,Absent,
+N/A,cse,,Absent,N/A
+R002,N/A,8.8,85%,5000
+,N/A,7.2,Absent,
+N/A,N/A,7.2,,"10,000"
+R002,IT,N/A,,5000
+N/A,CSE,7.2,Absent,
+,ECE ,8.5,Absent,
+N/A,CSE,8.5,Absent,5000
+R001,ECE ,8.8,Absent,"10,000"
+R002,cse,8.5,90,
+,cse,8.5,85%,"10,000"
+R002,ECE ,N/A,Absent,5000
+N/A,N/A,7.2,85%,"10,000"
+R002,IT,8.8,,N/A
+,ECE ,,90,5000
+R001,CSE,8.8,85%,
+,cse,8.8,Absent,5000
+R002,N/A,7.2,Absent,5000
+,IT,,85%,N/A
+R001,IT,,85%,"10,000"
+R001,cse,N/A,Absent,N/A
+R002,CSE,7.2,Absent,"10,000"
+N/A,ECE ,7.2,,
+,IT,,85%,
+R002,N/A,7.2,90,"10,000"
+R001,cse,N/A,Absent,"10,000"
+R001,N/A,N/A,85%,"10,000"
+,IT,,Absent,5000
+R002,CSE,N/A,90,5000
+N/A,CSE,7.2,,"10,000"
+R001,cse,,Absent,
+,CSE,,,"10,000"
+N/A,cse,8.5,85%,
+R002,CSE,7.2,Absent,
+,ECE ,8.8,85%,
+R002,IT,8.8,,N/A
+R002,IT,N/A,Absent,"10,000"
+N/A,CSE,8.5,,N/A
+N/A,N/A,N/A,90,N/A
+R001,CSE,N/A,90,5000
+N/A,IT,8.8,85%,N/A
+R002,cse,,90,N/A
+,ECE ,8.5,90,5000
+R002,N/A,7.2,85%,
+N/A,cse,N/A,90,N/A
+R001,cse,N/A,Absent,N/A
+,CSE,7.2,,5000
+,CSE,7.2,Absent,5000
+R001,IT,,90,"10,000"
+R002,cse,N/A,Absent,5000
+R002,N/A,8.8,85%,5000
+R001,N/A,,85%,
+R002,N/A,N/A,,N/A
+N/A,IT,8.5,,"10,000"
+,cse,7.2,Absent,
+R002,N/A,7.2,90,
+,CSE,8.8,,"10,000"
+,cse,8.5,,
+N/A,CSE,N/A,90,"10,000"
+N/A,cse,7.2,,N/A
+R002,IT,8.8,Absent,"10,000"
+N/A,IT,8.8,85%,"10,000"
+N/A,ECE ,N/A,,
+R002,CSE,,90,5000
+R001,IT,7.2,,5000
+N/A,cse,7.2,85%,5000
+R002,N/A,,,5000
+R002,ECE ,N/A,Absent,"10,000"
+N/A,IT,7.2,,"10,000"
+R001,IT,,,N/A
+R001,CSE,8.5,90,"10,000"
+,CSE,N/A,85%,N/A
+R001,N/A,,Absent,N/A
+R001,cse,7.2,Absent,N/A
+R002,cse,,90,"10,000"
+R001,cse,8.5,Absent,
+N/A,N/A,N/A,85%,"10,000"
+R002,IT,8.8,Absent,"10,000"
+R001,cse,8.8,Absent,
+R001,CSE,8.5,90,"10,000"
+N/A,N/A,7.2,Absent,5000
+R002,ECE ,,90,5000
+R001,ECE ,8.8,85%,
+,ECE ,8.8,90,"10,000"
+R002,ECE ,8.8,Absent,5000
+N/A,CSE,8.5,90,5000
+R002,CSE,8.5,90,N/A
+,IT,,85%,
+,ECE ,7.2,90,N/A
+,IT,,Absent,
+R001,CSE,8.5,85%,N/A
+R001,CSE,7.2,85%,N/A
+R001,CSE,8.8,90,N/A
+R001,CSE,,85%,5000
+N/A,cse,N/A,Absent,
+R001,ECE ,,Absent,N/A
+R002,ECE ,,,
+R002,cse,8.5,90,"10,000"
+N/A,cse,N/A,85%,N/A
+N/A,ECE ,8.8,90,5000
+R001,CSE,,85%,"10,000"
+,ECE ,7.2,90,5000
+R002,CSE,8.5,90,5000
+R002,ECE ,N/A,85%,"10,000"
+,CSE,N/A,Absent,
+R001,N/A,8.5,90,"10,000"
+,IT,8.5,85%,5000
+,CSE,7.2,Absent,
+R002,IT,8.5,90,
+R001,IT,8.8,,"10,000"
+R001,cse,N/A,85%,N/A
+R001,cse,8.5,90,"10,000"
+R002,IT,,85%,"10,000"
+R001,ECE ,N/A,Absent,5000
+,ECE ,8.5,,
+,ECE ,7.2,85%,
+N/A,ECE ,N/A,Absent,N/A
+R001,ECE ,8.8,Absent,N/A
+R002,N/A,,Absent,"10,000"
+R001,ECE ,N/A,Absent,
+,N/A,N/A,90,N/A
+N/A,cse,8.8,,
+N/A,IT,8.5,85%,N/A
+,N/A,,90,N/A
+N/A,IT,7.2,,
+N/A,CSE,N/A,Absent,
+R002,N/A,8.8,Absent,5000
+,N/A,,85%,
+,cse,8.5,85%,N/A
+R002,cse,,,"10,000"
+N/A,IT,,85%,N/A
+R002,ECE ,7.2,,
+N/A,ECE ,N/A,85%,5000
+,N/A,8.8,Absent,"10,000"
+N/A,CSE,N/A,Absent,"10,000"
+R001,CSE,N/A,Absent,N/A
+R001,CSE,8.8,,"10,000"
+R001,IT,,85%,
+N/A,cse,8.5,85%,"10,000"
+,ECE ,N/A,,"10,000"
+R002,N/A,8.5,Absent,5000
+,CSE,,,5000
+R001,ECE ,N/A,85%,N/A
+R002,ECE ,8.5,Absent,N/A
+,IT,8.8,Absent,"10,000"
+R002,ECE ,8.5,90,N/A
+,CSE,8.8,,
+,cse,8.8,85%,
+,IT,N/A,Absent,N/A
+R002,ECE ,N/A,85%,5000
+,ECE ,7.2,85%,
+,IT,8.8,90,"10,000"
+R001,ECE ,N/A,Absent,N/A
+R001,cse,7.2,Absent,"10,000"
+N/A,cse,8.5,90,N/A
+N/A,IT,,,N/A
+,CSE,N/A,85%,5000
+N/A,N/A,N/A,85%,"10,000"
+R002,N/A,8.5,,5000
+R001,N/A,N/A,Absent,5000
+N/A,ECE ,7.2,90,"10,000"
+,cse,,,N/A
+,IT,8.5,85%,N/A
+,cse,,,
+R001,IT,N/A,90,N/A
+R002,N/A,8.5,85%,N/A
+N/A,cse,8.8,,N/A
+R001,ECE ,,,"10,000"
+,N/A,N/A,,N/A
+R001,N/A,8.8,Absent,"10,000"
+R002,cse,8.5,Absent,
+R002,ECE ,N/A,90,
+N/A,CSE,7.2,Absent,
+,CSE,8.5,,
+R002,CSE,7.2,Absent,"10,000"
+N/A,IT,,90,"10,000"
+N/A,IT,N/A,90,"10,000"
+R002,CSE,N/A,,N/A
+,ECE ,8.5,90,"10,000"
+R001,ECE ,8.5,85%,"10,000"
+R001,N/A,8.5,,5000
+R002,IT,,85%,
+R001,CSE,7.2,85%,"10,000"
+R002,ECE ,,,
+R002,ECE ,N/A,90,N/A
+R002,cse,8.8,90,N/A
+R001,cse,8.5,Absent,
+R002,cse,,Absent,N/A
+N/A,N/A,,85%,
+R001,CSE,,90,5000
+N/A,CSE,8.5,85%,5000
+N/A,N/A,7.2,Absent,5000
+,N/A,,85%,N/A
+,ECE ,8.5,Absent,"10,000"
+R001,ECE ,,Absent,"10,000"
+R002,CSE,7.2,85%,"10,000"
+N/A,CSE,8.8,,"10,000"
+,CSE,,90,5000
+R002,N/A,7.2,Absent,N/A
+R001,cse,8.8,85%,N/A
+R002,N/A,N/A,,5000
+N/A,cse,,90,
+R002,ECE ,N/A,85%,5000
+N/A,IT,8.5,85%,5000
+R002,CSE,7.2,85%,
+N/A,CSE,8.8,Absent,N/A
+,N/A,N/A,Absent,N/A
+R001,CSE,8.5,90,N/A
+N/A,N/A,N/A,90,"10,000"
+N/A,CSE,8.5,,N/A
+R002,ECE ,7.2,Absent,N/A
+R002,N/A,,,5000
+N/A,CSE,8.8,Absent,"10,000"
+R002,CSE,N/A,,N/A
+R002,CSE,8.8,,N/A
+R001,ECE ,8.5,90,N/A
+R002,cse,8.5,85%,5000
+N/A,cse,N/A,85%,N/A
+R001,ECE ,8.5,,
+N/A,ECE ,8.8,,5000
+R002,cse,N/A,85%,
+N/A,CSE,8.8,90,"10,000"
+R001,ECE ,,,"10,000"
+,N/A,8.8,85%,N/A
+N/A,ECE ,8.8,,"10,000"
+N/A,IT,8.8,90,5000
+,CSE,8.8,90,5000
+N/A,cse,7.2,,"10,000"
+R001,IT,8.5,85%,"10,000"
+R001,CSE,,Absent,5000
+R002,cse,7.2,90,N/A
+,ECE ,8.8,90,"10,000"
+,ECE ,N/A,90,5000
+N/A,IT,8.8,90,5000
+N/A,IT,7.2,85%,"10,000"
+R002,IT,8.5,Absent,N/A
+N/A,IT,7.2,,"10,000"
+R002,IT,N/A,85%,"10,000"
+R001,IT,8.8,90,N/A
+N/A,IT,8.8,,
+N/A,cse,8.8,,
+R002,ECE ,7.2,Absent,"10,000"
+R002,N/A,7.2,,5000
+R001,ECE ,N/A,Absent,N/A
+R001,CSE,8.5,,5000
+R002,N/A,7.2,Absent,
+,CSE,,,5000
+N/A,IT,,Absent,5000
+N/A,IT,N/A,90,5000
+,CSE,,90,N/A
+N/A,CSE,8.5,85%,
+R002,CSE,8.5,,N/A
+R002,cse,,Absent,5000
+,ECE ,7.2,,N/A
+,N/A,,,5000
+R001,ECE ,8.5,90,
+N/A,cse,8.8,,N/A
+R001,IT,7.2,85%,N/A
+R002,CSE,8.5,,"10,000"
+,N/A,,85%,
+R001,N/A,8.5,85%,
+R001,CSE,N/A,,
+R001,cse,7.2,90,N/A
+R001,CSE,7.2,85%,"10,000"
+R001,cse,8.8,90,N/A
+N/A,ECE ,8.5,85%,"10,000"
+,cse,8.8,,N/A
+R001,N/A,8.5,90,"10,000"
+R001,N/A,8.5,85%,N/A
+R002,ECE ,7.2,,"10,000"
+,cse,8.5,,5000
+,cse,,,5000
+N/A,CSE,7.2,,"10,000"
+R002,IT,,,5000
+R002,CSE,N/A,Absent,"10,000"
+R002,CSE,7.2,,
+R002,cse,,90,
+,IT,7.2,85%,"10,000"
+N/A,cse,,85%,N/A
+R001,IT,N/A,,
+R002,cse,,Absent,
+R001,CSE,7.2,90,N/A
+R002,ECE ,N/A,,"10,000"
+R002,CSE,N/A,Absent,
+N/A,CSE,N/A,Absent,
+N/A,N/A,7.2,85%,N/A
+R001,ECE ,,85%,N/A
+R002,ECE ,7.2,90,"10,000"
+R002,CSE,8.8,,"10,000"
+N/A,ECE ,8.8,Absent,N/A
+R002,IT,7.2,90,5000
+N/A,CSE,,Absent,N/A
+R002,ECE ,8.8,90,N/A
+R002,cse,8.5,90,N/A
+N/A,cse,8.8,Absent,"10,000"
+R001,IT,8.8,85%,"10,000"
+R002,CSE,8.8,90,5000
+N/A,ECE ,7.2,85%,"10,000"
+R001,CSE,8.5,Absent,
+N/A,CSE,,90,N/A
+R001,IT,8.5,90,"10,000"
+R002,IT,,90,5000
+N/A,cse,7.2,Absent,"10,000"
+R002,CSE,N/A,90,5000
+,CSE,7.2,Absent,N/A
+,ECE ,,90,5000
+R001,cse,N/A,90,
+R001,IT,N/A,90,5000
+R001,ECE ,8.8,,N/A
+,IT,7.2,85%,
+,CSE,8.8,Absent,"10,000"
+R001,N/A,8.5,,5000
+R001,ECE ,,90,N/A
+R002,cse,7.2,85%,5000
+N/A,ECE ,8.8,90,5000
+N/A,CSE,8.5,90,"10,000"
+N/A,N/A,,,N/A
+N/A,CSE,N/A,Absent,"10,000"
+R002,N/A,7.2,85%,"10,000"
+N/A,CSE,7.2,,N/A
+R002,N/A,N/A,85%,5000
+N/A,ECE ,8.8,,5000
+N/A,IT,7.2,85%,N/A
+R001,cse,N/A,,"10,000"
+,CSE,8.5,90,N/A
+,ECE ,8.8,,
+N/A,cse,8.8,Absent,5000
+N/A,cse,8.5,85%,
+R002,IT,8.8,,5000
+N/A,cse,N/A,90,"10,000"
+R001,ECE ,N/A,Absent,5000
+R001,IT,,,
+,N/A,7.2,Absent,5000
+N/A,CSE,N/A,Absent,N/A
+R002,IT,8.8,85%,5000
+R002,cse,7.2,90,"10,000"
+R001,N/A,8.5,,
+R001,IT,,Absent,"10,000"
+R002,IT,,85%,N/A
+N/A,ECE ,,90,N/A
+N/A,N/A,N/A,85%,"10,000"
+R002,CSE,N/A,,N/A
+R001,CSE,8.8,,
+N/A,cse,8.8,90,
+N/A,IT,8.5,Absent,"10,000"
+,N/A,8.5,Absent,N/A
+R002,IT,8.5,90,"10,000"
+R002,IT,,90,5000
+,IT,,,
+R002,IT,7.2,85%,5000
+R001,cse,8.8,90,5000
+N/A,CSE,N/A,Absent,
+R002,IT,N/A,85%,
+N/A,CSE,N/A,85%,
+R002,ECE ,,90,
+R001,ECE ,8.8,Absent,5000
+R001,IT,,Absent,N/A
+,cse,8.8,85%,"10,000"
+R002,CSE,N/A,85%,N/A
+R002,ECE ,N/A,85%,"10,000"
+N/A,IT,,,
+N/A,N/A,8.5,85%,"10,000"
+,ECE ,8.5,85%,
+,cse,,,"10,000"
+R001,N/A,8.8,Absent,5000
+R001,N/A,8.8,,"10,000"
+R002,ECE ,7.2,85%,N/A
+R001,CSE,8.8,,
+R001,cse,7.2,,"10,000"
+R002,IT,7.2,Absent,"10,000"
+R001,ECE ,,85%,N/A
+,N/A,,85%,"10,000"
+R001,cse,8.8,Absent,
+R001,IT,8.5,85%,"10,000"
+,IT,,,N/A
+R001,cse,,85%,N/A
+R002,N/A,8.8,Absent,"10,000"
+N/A,IT,,90,N/A
+N/A,ECE ,7.2,Absent,5000
+R001,cse,N/A,85%,5000
+R002,CSE,8.5,90,
+,ECE ,,90,"10,000"
+,cse,7.2,85%,5000
+,CSE,N/A,90,5000
+R001,ECE ,7.2,Absent,5000
+R002,N/A,7.2,Absent,"10,000"
+,cse,,90,5000
+R001,CSE,8.5,90,5000
+R002,cse,N/A,,
+N/A,CSE,N/A,85%,"10,000"
+,N/A,N/A,,N/A
+R002,IT,N/A,90,5000
+R002,IT,,,"10,000"
+R001,ECE ,7.2,,N/A
+R002,cse,8.5,90,N/A
+,N/A,7.2,,5000
+R002,IT,N/A,Absent,N/A
+,IT,8.5,90,5000
+,cse,7.2,85%,
+R002,N/A,8.5,,
+N/A,ECE ,,85%,"10,000"
+R001,ECE ,8.5,90,5000
+R002,cse,N/A,,N/A
+R001,CSE,N/A,,5000
+R002,N/A,7.2,,N/A
+R002,CSE,7.2,85%,N/A
+R001,N/A,8.5,90,5000
+,IT,8.8,85%,N/A
+N/A,cse,N/A,90,5000
+,ECE ,8.8,,"10,000"
+R001,N/A,N/A,Absent,5000
+,IT,7.2,90,N/A
+R001,ECE ,,Absent,N/A
+N/A,IT,N/A,,"10,000"
+,N/A,N/A,Absent,
+R002,N/A,8.8,Absent,5000
+,ECE ,7.2,,N/A
+N/A,CSE,8.5,85%,5000
+N/A,CSE,8.5,85%,
+N/A,IT,8.8,Absent,"10,000"
+N/A,CSE,8.8,Absent,5000
+,IT,8.5,90,N/A
+R002,N/A,8.8,85%,5000
+N/A,ECE ,,85%,"10,000"
+,IT,N/A,Absent,"10,000"
+R001,cse,,90,"10,000"
+,N/A,8.8,85%,N/A
+R002,IT,,85%,5000
+R002,IT,8.5,85%,
+R001,CSE,7.2,90,"10,000"
+R001,IT,,90,"10,000"
+N/A,N/A,,Absent,5000
+R002,CSE,7.2,,5000
+N/A,CSE,8.5,,"10,000"
+N/A,CSE,N/A,85%,5000
+R001,IT,N/A,,
+R002,CSE,8.8,90,
+R002,cse,,90,5000
+R002,cse,8.5,Absent,5000
+R001,cse,8.8,,
+,cse,7.2,,N/A
+,N/A,7.2,,
+N/A,CSE,8.5,,"10,000"
+,cse,7.2,,
+N/A,CSE,,90,N/A
+R001,cse,7.2,,"10,000"
+N/A,cse,8.8,Absent,"10,000"
+R001,IT,7.2,,N/A
+N/A,N/A,7.2,Absent,5000
+R001,ECE ,N/A,90,
+R001,CSE,8.5,85%,N/A
+N/A,cse,8.5,,
+R002,IT,8.8,90,"10,000"
+N/A,N/A,,,N/A
+,CSE,8.5,90,
+R001,cse,8.5,85%,
+,IT,8.5,85%,"10,000"
+,CSE,,85%,N/A
+R001,cse,7.2,,"10,000"
+R001,CSE,8.8,90,N/A
+,CSE,8.8,85%,5000
+N/A,IT,8.8,90,"10,000"
+N/A,cse,N/A,85%,
+R002,IT,N/A,,5000
+N/A,N/A,8.8,85%,5000
+,IT,8.5,Absent,"10,000"
+R002,cse,8.5,90,
+N/A,IT,,Absent,N/A
+N/A,cse,,,"10,000"
+R002,ECE ,,90,N/A
+,CSE,7.2,Absent,N/A
+N/A,ECE ,7.2,Absent,5000
+,IT,7.2,,5000
+R001,IT,7.2,Absent,
+,IT,N/A,90,5000
+,CSE,,Absent,5000
+,IT,8.8,85%,"10,000"
+N/A,cse,,90,5000
+R002,ECE ,8.5,,
+N/A,IT,,85%,5000
+,CSE,7.2,,N/A
+,N/A,8.5,90,"10,000"
+N/A,IT,7.2,,"10,000"
+N/A,IT,N/A,,N/A
+,cse,,90,"10,000"
+R002,cse,7.2,85%,"10,000"
+,N/A,8.8,85%,
+R001,ECE ,7.2,85%,
+R002,IT,,Absent,5000
+,N/A,8.5,85%,"10,000"
+R002,IT,,,"10,000"
+R001,ECE ,,90,
+R001,cse,8.8,90,N/A
+R001,IT,N/A,90,
+R002,CSE,N/A,Absent,"10,000"
+,ECE ,8.5,,
+R001,cse,8.5,Absent,
+R002,CSE,7.2,Absent,5000
+R001,IT,N/A,Absent,
+R001,IT,8.5,85%,N/A
+R002,IT,,85%,"10,000"
+R001,ECE ,8.5,,N/A
+R001,CSE,N/A,,5000
+R001,N/A,8.8,85%,5000
+R001,CSE,N/A,,
+N/A,cse,8.5,,
+N/A,N/A,N/A,85%,5000
+R002,IT,8.8,Absent,
+N/A,ECE ,8.8,Absent,"10,000"
+N/A,cse,N/A,85%,5000
+R002,N/A,N/A,85%,N/A
+,IT,8.8,85%,
+,cse,N/A,85%,
+N/A,CSE,7.2,85%,5000
+R001,CSE,,90,5000
+R001,CSE,8.8,Absent,
+,N/A,,Absent,5000
+R001,N/A,8.8,90,N/A
+,CSE,8.5,,N/A
+R002,CSE,8.8,90,5000
+,ECE ,,Absent,"10,000"
+R001,CSE,7.2,90,
+N/A,CSE,7.2,85%,"10,000"
+N/A,ECE ,8.8,,"10,000"
